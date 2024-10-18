@@ -1,5 +1,5 @@
 # Razer Barracuda X 2022 support on Ubuntu 22
-Supports Razer Barracuda X 2022 on Ubuntu 22 with microphone as default input after connection.
+Support for Razer Barracuda X 2022 bluetooth headphones on Ubuntu 22 with microphone as default input.
 After steps below headphones shoud be set as default input device - Headphones with microphone Razer Barracuda X (BT)
 
 Steps:
